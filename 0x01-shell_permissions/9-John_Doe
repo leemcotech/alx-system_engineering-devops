@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod 0664 hello; chown julien julien hello
