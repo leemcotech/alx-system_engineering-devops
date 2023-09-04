@@ -1,1 +1,1 @@
-cat /etc/passwd
+sudo /etc/passwd
