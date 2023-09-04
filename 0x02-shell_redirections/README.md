@@ -3,3 +3,4 @@ Hello world is the content in the file
 echo is the command used to display the 1-confused_smiley
 echo is the command used to display the 1-confused_smiley in the file
 confused smiley is the content in the file
+cat command is used to display content in the file 2-hellofile
