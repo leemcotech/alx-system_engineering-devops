@@ -9,3 +9,4 @@ cat command is used to display the content of /etc/hosts and /etc/passwd files
 sudo tail -n 10 command is used to display the last 10 lines of the content of a file
 sudo head -n 10 is the command for displaing the first 10 lines of a file
 head -n 3 is the command to display the third line of a file
+we creat iacta file with touch command in the root of the directory
