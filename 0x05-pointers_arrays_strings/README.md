@@ -1,1 +1,3 @@
-my 0x05. C - Pointers, arrays and strings
+This readme is for 0x05-pointers_arrays_strings project
+
+
